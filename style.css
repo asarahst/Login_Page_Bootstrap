@@ -1,0 +1,56 @@
+/*Section*/
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./bg-.jpg);
+    background-size: cover;
+}
+/*Login*/
+.login-page {
+    box-sizing: border-box;
+
+}
+
+.dashboard  {
+    color: #fff;
+    padding: 40px 30px;
+    background: rgba(219, 101, 116, 0.95);
+    border-radius: 6px 6px 0 0;
+}
+
+/*formulário de login*/
+.form-login form {
+    box-sizing: border-box;
+}
+
+.form-login {
+    padding: 40px 35px;
+    border-radius: 0 0 6px 6px;
+}
+
+.input-form {
+    background: none;
+    border: none;
+    border-radius: none;
+    border-bottom: 1px solid #444951;
+    color: #aaa;
+    outline: none;
+}
+.style-button {
+    border: none;
+    background:rgba(219, 101, 116, 0.95);
+}
+
+.links-form{
+    margin-top: 15px;
+}
+
+.links-form a {
+    color: #DB6574;;
+}
+
+.links-form p {
+    color: #aaa;;
+}
